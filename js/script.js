@@ -1,7 +1,7 @@
-/*
+/******************************************
 Treehouse Techdegree:
-FSJS Project 2 - Data Pagination and Filtering
-*/
+FSJS project 2 - List Filter and Pagination
+******************************************/
 
 /*
 For assistance:
