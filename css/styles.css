@@ -36,9 +36,9 @@ header {
 
 header h2 {
   font-size: 36px;
-  text-transform: uppercase;
+  text-transform: lowercase;
   font-weight: 800;
-  color: #4a5568;
+  color: #3a3b3c;
   letter-spacing: 2px;
 	margin-bottom: 25px;
 }
